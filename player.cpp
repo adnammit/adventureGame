@@ -450,11 +450,9 @@ void ninja::displayfinal()const
 	<< "              _.-(_o___o_)" << endl
 	<< "              )_.'_     _'." << endl
 	<< "            _.-( (_`---'_) )-._" << endl
-	<< "          .'_.-'-._`\"\"\"`_.-'-._'." 
-	<< "\tCOWABUNGA, " << a_name << "ATELLO!" << endl
+	<< "          .'_.-'-._`\"\"\"`_.-'-._'." << "\tCOWABUNGA, " << a_name << "ATELLO!" << endl
 	<< "          /` |    __`\"`__    | `\\" << endl
-	<< "         |   | .'`  ^:^  `'. |   |" 
-	<< "\tTHAT WAS BODACIOUS!" << endl
+	<< "         |   | .'`  ^:^  `'. |   |" << "\tTHAT WAS BODACIOUS!" << endl
 	<< "         )'-.//      |      \\\\.-'(" << endl
 	<< "        /   //       |       \\\\   \\" << endl
 	<< "        \\   |=======.=.=======|   /" << endl
@@ -469,8 +467,7 @@ void ninja::displayfinal()const
 	<< "          /_,=\"(           )\"=,_\\" << endl
 	<< "          )-_,=\"\\         \\/\"=,_-(" << endl
 	<< "           \\    (         )    /"  << endl
-	<< "            \\    |       |    /" 
-	<< "\tFINAL SCORE: " << score << endl
+	<< "            \\    |       |    /" << "\tFINAL SCORE: " << score << endl
 	<< "             )._ |       | _.(" << endl
 	<< "         _.-'   '/       \\'   '-._ " << endl
 	<< "        (__,'  .'         '.  ',__)" << endl
